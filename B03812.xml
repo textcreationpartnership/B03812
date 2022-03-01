@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I'le never love thee more To be sung with its pleasant new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03812</idno>
+            <idno type="STC">Wing I49B</idno>
+            <idno type="STC">ESTC R233134</idno>
+            <idno type="EEBO-CITATION">52614709</idno>
+            <idno type="OCLC">ocm 52614709</idno>
+            <idno type="VID">175912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175912)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2755:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>I'le never love thee more To be sung with its pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>W. Whitwood,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: cropped with some loss of text.</note>
+                  <note>Publication data from by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:175912:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>I'LE NEVER LOVE THEE MORE</head>
+            <opener>To be Sung with its pleaſant New Tune.</opener>
+            <div n="1" type="part">
+               <lg>
+                  <l>MY Dear and onely Love I pray,</l>
+                  <l>that little World of thee;</l>
+                  <l>Be Govern'd by no other ſway,</l>
+                  <l>but pureſt Monarchie:</l>
+                  <l>For if Confuſion have a part,</l>
+                  <l>which vertuous Souls abhore;</l>
+                  <l>I'le call a Synod in mine Heart,</l>
+                  <l>and never love thee more.</l>
+               </lg>
+               <lg>
+                  <l>As Alexander I will Reign,</l>
+                  <l>and I will Reign alone;</l>
+                  <l>My thoughts did ever yet diſdain,</l>
+                  <l>a Rival on my Throne:</l>
+                  <l>He either fears his Fate too much,</l>
+                  <l>or his Deſerts are ſmall;</l>
+                  <l>That dares not put it to the Touch,</l>
+                  <l>to gain or loſe at all.</l>
+               </lg>
+               <lg>
+                  <l>But I will Reign and Govern ſtill.</l>
+                  <l>and always give the Law;</l>
+                  <l>And have each Subject at my will,</l>
+                  <l>and all to ſtand in aw:</l>
+                  <l>But 'gainſt by Batteries if I find,</l>
+                  <l>thou kick or vex me ſore;</l>
+                  <l>As that thou ſet me up a Blind,</l>
+                  <l>I'<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e never Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>And in the Empire of thy heart,</l>
+                  <l>where I ſhould ſollie be;</l>
+                  <l>If others do pretend a part,</l>
+                  <l>or dares to ſhare with me:</l>
+                  <l>Or Committees if thou erect,</l>
+                  <l>and go on ſuch a ſcore;</l>
+                  <l>I'le laugh and ſmile at thy neglect,</l>
+                  <l>and never Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>But if thou will prove faithful then,</l>
+                  <l>and conſtant in thy word;</l>
+                  <l>I'le make thee Glorious by my Pen,</l>
+                  <l>and Famous by my Sword:</l>
+                  <l>I'le ſerve thee in ſuch Noble ways,</l>
+                  <l>was ne're yet heard before;</l>
+                  <l>I'le crown and deck thy head with bayes,</l>
+                  <l>and Love thee more and more.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part.</head>
+               <lg>
+                  <l>MY Dear and only Love take heed.</l>
+                  <l>how thou thy ſelf diſpoſe;</l>
+                  <l>Let not all longing Lovers ſeed,</l>
+                  <l>upon ſuch looks as thoſe<g ref="char:punc">▪</g>
+                  </l>
+                  <l>I'le Marble-wall thee round about,</l>
+                  <l>my ſelf ſhall be the Door;</l>
+                  <l>And if thy heart chance to ſlide out<g ref="char:punc">▪</g>
+                  </l>
+                  <l>I'le never Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>Let not thy Oaths like Volies ſhot,</l>
+                  <l>make any Breach at all;</l>
+                  <l>Nor ſmoothneſs of their Language Plot,</l>
+                  <l>which wait to ſcale the Wall:</l>
+                  <l>Nor balls of wild-fire Love conſume,</l>
+                  <l>the Shrine which I adore;</l>
+                  <l>For if ſuch ſmoak about thee foam,</l>
+                  <l>I'le never Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>I know thy Vertues be too ſtrong,</l>
+                  <l>to ſuffer by ſurpriſe;</l>
+                  <l>If that thou ſlights their Love ſo long,</l>
+                  <l>their Siege at laſt will riſe:</l>
+                  <l>And leave thee Conqueror in thy Health</l>
+                  <l>and ſtate thou was before;</l>
+                  <l>And if thou prove a Common-wealth,</l>
+                  <l>I'le never Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>But if by fraud or by deceit,</l>
+                  <l>thy Heart to ruine come;</l>
+                  <l>I'le ſound no Trumpet as I wont</l>
+                  <l>nor March by Tuke of Drum:</l>
+                  <l>
+                     <unclear>But</unclear> hold my Drum like <hi>Achans</hi> Cup.</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I'le do with thee as <hi>Nero</hi> did,</l>
+                  <l>when he ſet <hi>Rome</hi> on fire;</l>
+                  <l>Not only all Relief ſorbid,</l>
+                  <l>But to a Hill retire;</l>
+                  <l>And ſcorn to ſhed a Tear to ſave,</l>
+                  <l>thy Spirit grown ſo poor;</l>
+                  <l>But laugh and ſmile thee to thy Grave,</l>
+                  <l>and never Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>Then ſhall my Heart be ſet by thine,</l>
+                  <l>but in far different caſe,</l>
+                  <l>For mine was true ſo was not thine,</l>
+                  <l>but lookt like <hi>Janus</hi> Face:</l>
+                  <l>Thy Beauty ſhin'd at firſt ſo bright,</l>
+                  <l>and wo is me therefore;</l>
+                  <l>That e're I found thy Love ſo bright,</l>
+                  <l>that I could love no more.</l>
+               </lg>
+               <lg>
+                  <l>My Heart ſhall with the Sun be fixt,</l>
+                  <l>for Conſtancy moſt ſtrange;</l>
+                  <l>And thine ſhall with the Moon be next,</l>
+                  <l>delighting ay in change:</l>
+                  <l>For as thou waves with every Wind,</l>
+                  <l>and Sailes through every Shore;</l>
+                  <l>And leaves my conſtant Heart behind,</l>
+                  <l>how can I Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>Yet for the Love I bare thee once,</l>
+                  <l>left that thy Name ſhould die;</l>
+                  <l>A Monument of Marble Stone,</l>
+                  <l>the Truth ſhal teſtifie;</l>
+                  <l>That every Pilgrim paſſing by,</l>
+                  <l>may pity and deplore;</l>
+                  <l>And ſighing, read the Reaſon why</l>
+                  <l>I cannot Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>The Golden Laws of Love ſhal be,</l>
+                  <l>upon theſe Pillars hung;</l>
+                  <l>A Single Heart, a Simple Eye,</l>
+                  <l>a True and Conſtant Tongue:</l>
+                  <l>Let no Man for more Loves pretend,</l>
+                  <l>then he hath Hearts in ſtore;</l>
+                  <l>True Love begun will never end,</l>
+                  <l>love one and love no more.</l>
+               </lg>
+               <lg>
+                  <l>And when all Gallants leads about,</l>
+                  <l>this Monument to view;</l>
+                  <l>It's written both within and out,</l>
+                  <l>thou'rt Treacherous I trow:</l>
+                  <l>Then in a Paſſion they ſhal pauſe,</l>
+                  <l>and thus ly ſighing ſore;</l>
+                  <l>Alace he had too juſt a Cauſe,</l>
+                  <l>never to Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>And when the tracing Gods do Face,</l>
+                  <l>from Eaſt and Weſt do flee;</l>
+                  <l>They ſhal Record it to thy ſhame,</l>
+                  <l>how thou haſt loved me:</l>
+                  <l>And how in odds our Love's been ſuch</l>
+                  <l>as few hath been before;</l>
+                  <l>Thou lov'd too many, <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y too much,</l>
+                  <l>that I can Love no more.</l>
+               </lg>
+               <lg>
+                  <l>The miſty Mounts, the ſmoking Lakes,</l>
+                  <l>the Rocks reſounding Echo:</l>
+                  <l>The whiſling winds, the woods that ſhake</l>
+                  <l>ſhal all with me ſing hey ho:</l>
+                  <l>The toſſing Seas, the tumbling Boats,</l>
+                  <l>tears dropping from each Oar,</l>
+                  <l>Shal tune with me their Turtle Notes,</l>
+                  <l>I'le never Love thee more.</l>
+               </lg>
+               <lg>
+                  <l>Yet as the Turtle chaſte and true,</l>
+                  <l>her Fellow ſo regrates,</l>
+                  <l>And daily ſighs for her Adieu,</l>
+                  <l>that ne're renews her Notes:</l>
+                  <l>But though thy Faith was never faſt,</l>
+                  <l>which grieves me wondrous ſore;</l>
+                  <l>
+                     <gap reason="illegible: damage" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhal live in Love ſo Chaſte,</l>
+                  <l>
+                     <gap reason="illegible: missing" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
